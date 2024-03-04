@@ -13,7 +13,7 @@
 	  "types": ["svelte"],
 	  "isolatedModules": true
 	},
-	"include": ["src/lib/**/*"],
+	"include": ["src/**/*"],
 	"exclude": ["node_modules"]
   }
   

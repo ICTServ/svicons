@@ -1,9 +1,9 @@
 {
-	"name": "@ameto/svicons",
-	"version": "1.0.0",
+	"name": "svicons",
+	"version": "1.0.3",
 	"license": "MIT",
 	"main": "src/lib/index.ts",
-	"types": "src/lib/types.ts",
+	"types": "src/lib/index.ts",
 	"files": [
 		"src/lib/*.svelte",
 		"src/lib/index.ts",
