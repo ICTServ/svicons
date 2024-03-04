@@ -1,4 +1,4 @@
-<script lang="ts"> import type { IconProps } from './types'; let { size = "20", strokeWidth="1.5", stroke = "#96989f", fill = "none" } = $props<IconProps>();</script> 
+<script lang="ts"> import type { IconProps } from './types'; let { size = "18", strokeWidth="1.5", stroke = "#96989f", fill = "none" } = $props<IconProps>();</script> 
 <svg width={size} height={size} fill={fill} viewBox="0 0 24 24" stroke={stroke} stroke-width={strokeWidth} ><g>
 <path d="M27,5V3H1v26   c0,1.105,0.895,2,2,2h26c1.105,0,2-0.895,2-2V5H27z" fill={fill} stroke={stroke} stroke-linejoin="round" stroke-width={strokeWidth}/>
 <rect fill="none" height="8" stroke={stroke} stroke-linejoin="round" stroke-width={strokeWidth} width="10" x="5" y="19"/>

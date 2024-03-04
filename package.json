@@ -1,6 +1,6 @@
 {
 	"name": "svicons",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"license": "MIT",
 	"main": "src/lib/index.ts",
 	"types": "src/lib/index.ts",
