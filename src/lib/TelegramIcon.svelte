@@ -1,0 +1,3 @@
+<script lang="ts"> import type { IconProps } from './types'; let { size = "20", strokeWidth="1.5", stroke = "#96989f", fill = "none" , className } = $props<IconProps>(); </script><svg class="{className}"  width={size} height={size} fill={fill} viewBox="0 0 24 24" stroke={stroke} stroke-width={strokeWidth} id="Layer_2" data-name="Layer 2">
+    <path class="cls-1" d="M20.415 4.24c.57 0 1 .5.77 1.43l-2.79 13.15c-.195.935-.76 1.16-1.54.725L10.2 14.63a.2.2 0 0 1 0-.325l7.685-7.265c.35-.31-.075-.46-.535-.18L7.705 13.27a.23.23 0 0 1-.2.025L3.41 12c-.91-.265-.91-.61 1.615-.665l16.39-6.32a1.08 1.08 0 0 1 .415-.105z"/>
+</svg>

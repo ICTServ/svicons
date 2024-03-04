@@ -1,0 +1,38 @@
+{
+	"name": "@ameto/svicons",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "src/lib/index.ts",
+	"types": "src/lib/types.ts",
+	"files": [
+		"src/lib/*.svelte",
+		"src/lib/index.ts",
+		"src/lib/types.ts"
+	],
+	"author": {
+		"name": "eservceo",
+		"email": "eservceo@gmail.com"
+	},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^3.0.2",
+		"svelte": "^5.0.0-next.70",
+		"vite": "^5.1.4"
+	},
+	"peerDependencies": {
+		"svelte": "^5.0.0"
+	},
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ictserv/svicons.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ictserv/svicons/issues"
+	},
+	"homepage": "https://github.com/ictserv/svicons#readme"
+}

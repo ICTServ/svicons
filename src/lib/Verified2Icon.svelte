@@ -1,0 +1,1 @@
+<script> let { size = "2.5" } = $props() </script> <svg class="text-gray-100 h-{size} w-{size}" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M5 13l4 4L19 7"></path></svg>
